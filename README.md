@@ -1,5 +1,10 @@
 # github-index
 
+# General
+
+Programming Languages: https://github.com/AmlanAlok/Programming-Languages
+
+
 # FULL STACK APP
 
 #### Project x: Develop Full Stack Application for DB Course using React and Flask
