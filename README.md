@@ -1,7 +1,7 @@
 # github-index
 
 ## Ongoing Projects
-Programming Languages: https://github.com/AmlanAlok/Programming-Languages
+https://github.com/AmlanAlok/Programming-Languages
 https://github.com/AmlanAlok/learn_fast_api
 
 # General
