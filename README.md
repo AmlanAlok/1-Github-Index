@@ -14,6 +14,11 @@ Programming Languages: https://github.com/AmlanAlok/Programming-Languages
 Leetcode Repo: https://github.com/AmlanAlok/leetcode-leethub
 
 
+# Machine Learning
+
+Instacart: https://github.com/AmlanAlok/instacart-2017-project
+
+
 # FULL STACK APP
 
 #### Project x: Develop Full Stack Application for DB Course using React and Flask
