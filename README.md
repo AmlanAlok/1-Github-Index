@@ -28,6 +28,13 @@ Fall 22 ML Scratch Implementations: https://github.com/AmlanAlok/Fall-22-ML-Impl
 
 Huber ML Course: https://github.com/AmlanAlok/CSE-6363-ML-Huber
 
+https://github.com/AmlanAlok/colab-cse5368
+
+DAMT course: https://github.com/AmlanAlok/DAMT-code
+
+Neural Network Design: https://github.com/AmlanAlok/Neural-Network-Design
+
+
 
 # Languages
 
@@ -67,10 +74,31 @@ Spring Boot: https://github.com/AmlanAlok/client-x2-spring-boot-app
 
 React Frontend: https://github.com/AmlanAlok/client-x2-spring-boot-app
 
+#### Project x: Web Data Management
+Laravel Backend: https://github.com/AmlanAlok/wdm-phase-5-laravel
+
+php Backend: https://github.com/AmlanAlok/uta-wdm-phase-4
+
+HTML CSS static code: https://github.com/AmlanAlok/CSE5335-Phase2
+
+#### Project x: Cognizant Full Stack Certification Application
+ReactJS Backend: https://github.com/AmlanAlok/Project-Manager-Frontend
+
+Java Backend: https://github.com/AmlanAlok/Project-Manager-Backend
+
+https://github.com/AmlanAlok/FSE-project-frontend
+
+https://github.com/AmlanAlok/FSE-project
+
+
+
 
 
 # FRONTEND
 
+React-Redux: https://github.com/AmlanAlok/React-Redux-Projects-Learning
+
+React Basics: https://github.com/AmlanAlok/React-Basic-Projects
 
 #### Project x: Elizabeth Diaz Chatbot
 
@@ -145,9 +173,19 @@ Git Commands: https://github.com/AmlanAlok/git-commands
 
 Documentation: https://github.com/AmlanAlok/Documentations
 
+CS Theory: https://github.com/AmlanAlok/cs-theory
+
+CS Notes: https://github.com/AmlanAlok/cs-notes
+
+Interview Prep Kit: https://github.com/AmlanAlok/interview-prep-kit
+
+UTA CS 3320 - Operating System: https://github.com/AmlanAlok/CSE-3320-OS
+
 UTA CSE 5344 - Computer Networks: https://github.com/AmlanAlok/CSE-5344-Computer-Networks
 
 UTA CSE 5307: https://github.com/AmlanAlok/Programming-Language-Concepts
+
+github.io static Web Page: https://github.com/AmlanAlok/AmlanAlok.github.io
 
 Pictures: https://github.com/AmlanAlok/Pictures
 
@@ -158,13 +196,6 @@ Draw.io: https://github.com/AmlanAlok/draw.io-diagrams
 Leetcode Solutions: https://github.com/AmlanAlok/leetcode-solutions
 
 Leetcode: https://github.com/AmlanAlok/Leetcode
-
-
-
-
-
-
-
 
 
 
