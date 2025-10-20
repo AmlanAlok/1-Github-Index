@@ -1,6 +1,10 @@
 # github-index
 
 ## Ongoing Projects
+
+20 Oct 2025
+https://github.com/AmlanAlok/learn-laravel-01-2025
+
 https://github.com/AmlanAlok/Programming-Languages
 
 https://github.com/AmlanAlok/learn_fast_api
